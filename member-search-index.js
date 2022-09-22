@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.example.lab1","c":"Aggregators","l":"Aggregators()","url":"%3Cinit%3E()"},{"p":"com.example.lab1","c":"Aggregators","l":"Max(int[])"},{"p":"com.example.lab1","c":"Aggregators","l":"Min(int[])"}]
